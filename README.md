@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[one](622F58C9-37E8-4D51-9B64-8EF3E39E296A.jpeg)
+[one](bg.jpg)
 
 ## Getting Started
 
