@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[one](bg.jpg)
+![one](bg.jpg)
 
 ## Getting Started
 
